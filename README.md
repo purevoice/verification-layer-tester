@@ -40,7 +40,7 @@ For a quick and comprehensive walkthrough, watch our **YouTube demo video**:
 
 [![Demo Video](https://img.youtube.com/vi/jawnA9mwhck/0.jpg)](https://www.youtube.com/watch?v=jawnA9mwhck)
 
-*Click on the image above or [this link](https://youtu.be/k5L0-gZzzkc?si=jawnA9mwhck) to view the demo.*
+*Click on the image above or [this link](https://www.youtube.com/watch?v=jawnA9mwhck) to view the demo.*
 
 ---
 
